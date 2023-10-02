@@ -1,0 +1,1 @@
+export const SKIP_FIREBASE_AUTH = 'SKIP_FIREBASE_AUTH';
