@@ -31,7 +31,9 @@
   "bugs": "https://github.com/alexrequelme/nestjs-firebase-admin",
   "peerDependencies": {
     "@nestjs/common": ">=10.0.0",
-    "firebase-admin": ">=10.0.0"
+    "firebase-admin": ">=10.0.0",
+    "@nestjs/passport": ">=10.0.0",
+    "passport-firebase-jwt": "^1.2.1"
   },
   "devDependencies": {
     "@nestjs/common": "^10.0.0",
